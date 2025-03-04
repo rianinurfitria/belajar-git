@@ -1,6 +1,0 @@
-ini adalah file 1
-percobaan pertama
-abc
-belajar  konflik
-function penting 
-lagi
